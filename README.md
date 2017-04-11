@@ -42,4 +42,5 @@ implication related equivalences
 |p ⇒ q ≡ ¬q ⇒ ¬p|
 |p ∨ q ≡ ¬p ⇒ q|
 |------------ |
+
 ¬ ^ ∨ ⊕ ⇒ ⇔ ∀	∃ ∴ ≡
