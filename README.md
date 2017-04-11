@@ -36,4 +36,10 @@ symbols:
 |p ^ ¬p ≡ F  | |
 |------------ | -------------|
 
+implication related equivalences
+|------------ |
+|p ⇒ q ≡ ¬p ^ q|
+|p ⇒ q ≡ ¬q ⇒ ¬p|
+|p ∨ q ≡ ¬p ⇒ q|
+|------------ |
 ¬ ^ ∨ ⊕ ⇒ ⇔ ∀	∃ ∴ ≡
