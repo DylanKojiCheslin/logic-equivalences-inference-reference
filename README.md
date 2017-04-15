@@ -49,4 +49,12 @@ implication related equivalences
 |(p ⇒ r) ∨ (q ⇒ r) ≡ (p^q) ⇒ r|
 |------------ |
 
+bi-conditional related equivalences
+|------------ |
+|p ⇔ q ≡ (p ⇒ q) ^ (q ⇒ p) |
+|p ⇔ q ≡ ¬p ⇔ ¬q |
+|p ⇔ q ≡ (p ^ q) ∨ (¬p ^ ¬q) |
+|¬(p ⇔ q) ≡ p ⇔ ¬q |
+|------------ |
+
 ¬ ^ ∨ ⊕ ⇒ ⇔ ∀	∃ ∴ ≡
