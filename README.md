@@ -57,7 +57,7 @@ bi-conditional related equivalences
 |¬(p ⇔ q) ≡ p ⇔ ¬q |
 |------------ |
 
-quantifeirs
+quantifiers
 |------------ |
 ∀xP(x) | true when P(x) is true for every x in the universe of discourse | false when P(x) is false for at lest one x in the universe of discourse
 |------------ |
