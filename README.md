@@ -2,7 +2,7 @@
 rules for logic
 
 symbols:
-¬ ^ ∨ ⊕ ⇒ ⇔ ∀	∃ ∴ ≡
+¬ ^ ∨ ⊕ ⇒ ⇔ ∀ ∃ ∴ ≡
 
 |Equivalence | Name|
 |------------ | -------------|
@@ -57,4 +57,11 @@ bi-conditional related equivalences
 |¬(p ⇔ q) ≡ p ⇔ ¬q |
 |------------ |
 
-¬ ^ ∨ ⊕ ⇒ ⇔ ∀	∃ ∴ ≡
+quantifeirs
+|------------ |
+∀xP(x) | true when P(x) is true for every x in the universe of discourse | false when P(x) is false for at lest one x in the universe of discourse
+|------------ |
+∃xP(x) | true when P(x) is true for at lest one x in the universe of discourse | false when P(x) is false for all x in the universe of discourse
+|------------ |
+
+¬ ^ ∨ ⊕ ⇒ ⇔ ∀ ∃ ∴ ≡
