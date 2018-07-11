@@ -64,4 +64,7 @@ quantifiers
 ∃xP(x) | true when P(x) is true for at lest one x in the universe of discourse | false when P(x) is false for all x in the universe of discourse
 |------------ |
 
+
+|------------ |
+
 ¬ ^ ∨ ⊕ ⇒ ⇔ ∀ ∃ ∴ ≡
